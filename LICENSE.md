@@ -1,4 +1,4 @@
-
+rare Helper for Monosnap for macOS - cloud-sync and startup-manager offers the most advanced Monosnap for macOS helper, with cloud-sync and startup-manager. Ideal for macOS power
 
 
 
